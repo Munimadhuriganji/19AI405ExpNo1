@@ -3,7 +3,7 @@
 <h3>Register Number: 212223230060</h3>
 
 
-<h3>AIM:</h3>
+### AIM:>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <br>
@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<h3>PROGRAM:</h3>
+### PROGRAM:
 
 class VacuumCleanerAgent:
     def __init__(self):
@@ -99,9 +99,9 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 
-<H3>OUTPUT<\H3>
-![Screenshot 2024-02-29 181050](https://github.com/Munimadhuriganji/19AI405ExpNo1/assets/138849444/aa0d93be-659f-436e-95a5-71bb2b2dd2a7)
+### OUTPUT:
+![Screenshot 2024-02-29 181050](https://github.com/Munimadhuriganji/19AI405ExpNo1/assets/138849444/f86f6722-f930-4bf3-b750-7dfadeef3377)
 
-<H3>RESULT:</H3>
+### RESULT:
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
 
